@@ -1,0 +1,20 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+}
+
+#countdown {
+    font-size: 2rem;
+}
+
+.time-unit {
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.display-4 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
